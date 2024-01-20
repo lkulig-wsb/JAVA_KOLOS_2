@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f57e1db7-d396-4cf5-97c2-88fd58d02ca4" name="Changes" comment="Initial Commit Zad4.">
-      <change afterPath="$PROJECT_DIR$/src/Zad3/Kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f57e1db7-d396-4cf5-97c2-88fd58d02ca4" name="Changes" comment="Initial Commit Zad3.">
+      <change afterPath="$PROJECT_DIR$/src/Zad1/Application1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <workItem from="1704894024810" duration="591000" />
       <workItem from="1704908255853" duration="594000" />
       <workItem from="1704959049669" duration="46000" />
-      <workItem from="1705752860328" duration="4293000" />
+      <workItem from="1705752860328" duration="7042000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -77,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705755522313</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Commit Zad3.">
+      <option name="closed" value="true" />
+      <created>1705757350064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705757350064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +93,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Initial Commit Zad4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit Zad4." />
+    <MESSAGE value="Initial Commit Zad3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit Zad3." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
